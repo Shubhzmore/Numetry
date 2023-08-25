@@ -1,0 +1,12 @@
+ server :
+  port : 9009
+  
+ spring:
+   application: 
+    name: email-service
+    
+ eureka:
+  instance:
+   hostname: localhost  
+ 
+ 
